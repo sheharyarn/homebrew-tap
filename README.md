@@ -16,11 +16,12 @@ $ brew tap sheharyarn/tap
 Now, you can install any of my formulae using `brew`:
 
 ```bash 
-$ brew install zippy
+$ brew install vncviewer
 ```
 
 
 ## Available Formulae
 
- - [Zippy](https://github.com/sheharyarn/zippy)
+ - [VNCViewer](https://github.com/sheharyarn/vncviewer)
+ - [Zippy](https://github.com/sheharyarn/zippy) (Deprecated)
 
